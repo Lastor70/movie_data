@@ -7,5 +7,5 @@ st.title("Софт для Сладенького")
 st.header('Таблиця замовлень:')
 st.subheader('Графік:')
 
-st.write(st.secrets.crm)
+st.write(st.secrets.key)
 
